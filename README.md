@@ -31,6 +31,7 @@ Listar (demarcada)
       
       
 Lista de Tarefas
+
 - [ ] criar pg main
 - [ ] criar pg da loja
 - [ ] ligar para fornencedos
