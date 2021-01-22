@@ -64,6 +64,6 @@ else:
 ````
 Olha só o octocat do Jú
 
-
+[fotinho](https://github.com/robertacristinaabreu01/git-github/blob/master/juju.PNG)
 
   
