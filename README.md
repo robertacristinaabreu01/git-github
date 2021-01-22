@@ -94,5 +94,7 @@ Olha só o octocat do Jú
 [Encontrar Emoji para Markdown](https://github.com/ikatyang/emoji-cheat-sheet)
 
 [emojipidia.org](https://emojipedia.org/)
+
 usando ikatyang: Olá, pequeno :grinning:
+
 usando emojipidia: 💻 precisa copiar direto do site 
