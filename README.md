@@ -44,4 +44,25 @@ Num | Nome | Nota
 2|Aline|10,0
 3|Mariana|9,0
 
+Como colocar comando 
 
+qual é esse comendo `document.getElemntary()` em JS?
+
+****
+
+Programa
+
+Olha meu programa em Python
+
+````
+num = int(input('Digite um valor: ')
+if num %2 == 0:
+  printf('O valor {num} é PAR')
+else:
+  printf('O valor {num} é impar')
+
+````
+Olha só o octocat do Jú
+
+
+  
