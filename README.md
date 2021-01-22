@@ -35,3 +35,13 @@ Lista de Tarefas
 - [ ] criar pg main
 - [ ] criar pg da loja
 - [ ] ligar para fornencedos
+
+tabela
+
+Num | Nome | Nota
+---|---|---
+1|Gustavo|8,6
+2|Aline|10,0
+3|Mariana|9,0
+
+
