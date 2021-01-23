@@ -1,5 +1,12 @@
 # Curso Grátis de Git e GitHub 😃🥰💻
 
+
+****
+(para efetivar a autenticação de 2 paços)[https://youtu.be/bsI6P_IM_hg]
+
+
+****
+
 Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *YouTube*.
 
 
