@@ -2,7 +2,7 @@
 
 
 ****
-(para efetivar a autenticação de 2 paços)[https://youtu.be/bsI6P_IM_hg]
+[para efetivar a autenticação de 2 paços](https://youtu.be/bsI6P_IM_hg)
 
 
 ****
